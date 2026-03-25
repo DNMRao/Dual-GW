@@ -4,3 +4,6 @@ It is designed to simulate the non-equilibrium dynamics of strongly correlated q
 
 For a given set of input parameters, the code computes key physical quantities, including the single-particle Green’s function, 
 many-body self-energy, and spin and charge susceptibilities. 
+
+To run these simulations, we need the NESSi library, an open-source platform available at https://nessi.tuxfamily.org/
+
