@@ -3,7 +3,7 @@ This repository contains a C++ implementation of the Dual-GW method, a recent ad
 Given a set of user-defined input parameters, the program evaluates:
 
 Single-particle Green’s functions, 
-Many-body self-energy, Polarisation
+Many-body self-energy, Polarisation, 
 Spin susceptibilities, and 
 Charge susceptibilities
 
