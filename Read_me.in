@@ -1,0 +1,4 @@
+This project implements a modern many-body diagrammatic approach known as the Dual-GW method, written in C++. It is designed to simulate the non-equilibrium dynamics of strongly correlated quantum systems on the L-shaped Keldysh contour.
+
+
+For a given set of input parameters, the code computes key physical quantities, including the single-particle Green’s function, many-body self-energy, and spin and charge susceptibilities. 
